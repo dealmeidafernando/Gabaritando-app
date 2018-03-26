@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Gabaritando</string>
+    <string name="btnregister">Botao Cadastrar</string>
+    <string name="register">Cadastrar</string>
+    <string name="recover">Esqueceu sua senha</string>
+</resources>
